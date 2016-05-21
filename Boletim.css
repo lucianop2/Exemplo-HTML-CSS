@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 10px;
+    border: 0px solid black;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even)
+{
+	background-color: #FFA000;
+}
+
+body{
+	background-color: #454545;
+	font-family: 'Orbitron', sans-serif;
+}
